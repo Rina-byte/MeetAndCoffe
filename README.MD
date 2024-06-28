@@ -27,5 +27,5 @@ Este proyecto utiliza las siguientes tecnologías
 
 ## Como clonar el proyecto
 ``` bash
-git clone [URL]
+git clone https://github.com/Rina-byte/MeetAndCoffe.git
 ```
